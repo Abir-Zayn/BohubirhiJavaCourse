@@ -2,7 +2,7 @@ package JavaBohubirhiCourse;
 
 import java.util.Scanner;
 
-/* Check question above..
+/*Check question above
  */
 public class ProblemSetSix {
     public static void main(String[] args) {
