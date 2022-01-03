@@ -2,11 +2,7 @@ package JavaBohubirhiCourse;
 
 import java.util.Scanner;
 
-/* We are having a party with amounts of tea and candy . Return the outcome of the party encoded as
-0=bad, 1=good, 2=great.A party is good (1) ix both tea and candy are at least 5.However, if either
-tea or candy is at least double the amount od the other one,the party is great(2) .However, in all cases
-if either tea or candy is less than 5, the party is always bad.
-
+/* Check question above..
  */
 public class ProblemSetSix {
     public static void main(String[] args) {
